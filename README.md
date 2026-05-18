@@ -1,0 +1,1 @@
+This is John Ajamian's project for AOSC 650. Note that the data I generated and used for the code is NOT included. This file was too large for github, so I will likely try to upload it to elms if possible. See training.ipynb for the main code that trains, tests, and creates results.
